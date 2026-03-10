@@ -36,6 +36,6 @@ To analyze electric vehicle data and build an interactive Tableau dashboard that
 ## Project Screenshot
 <img width="1641" height="908" alt="Screenshot 2026-03-10 232313" src="https://github.com/user-attachments/assets/cbe132b3-df34-4703-b203-a9af9b3c0c8e" />
 
- Final Conclusion:
+## Final Conclusion:
 The dashboard highlights the rapid growth of electric vehicles, the dominance of BEVs, and the increasing improvement in electric range. Data visualization helps identify key trends, top manufacturers, and EV adoption patterns.
 
