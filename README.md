@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I devloped a comprehensive project in Tableau dashboard analyzing Electric Vehicle data including BEV, PHEV distribution, EV growth by year, and top vehicle models.
+Electric Vehicle Analysis Dashboard using Tableau
+ # project Objective:
+To analyze electric vehicle data and build an interactive Tableau dashboard that visualizes EV adoption trends, vehicle types, manufacturers, and performance metrics.
