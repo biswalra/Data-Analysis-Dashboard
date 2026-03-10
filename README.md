@@ -3,7 +3,7 @@
 To analyze electric vehicle data and build an interactive Tableau dashboard that visualizes EV adoption trends, vehicle types, manufacturers, and performance metrics.
 
 ## Dataset used
-- <a herf="https://github.com/biswalra/Data-Analysis-Dashboard/blob/main/Electric_Vehicle_Population_Data.xlsb"> Electric Vehicle Data</a>
+<a herf="https://github.com/biswalra/Data-Analysis-Dashboard/blob/main/Electric_Vehicle_Population_Data.xlsb"> Electric Vehicle Data</a>
 
 ## KPI-Based Questions
 - What is the total number of electric vehicles in the dataset?
@@ -16,7 +16,7 @@ To analyze electric vehicle data and build an interactive Tableau dashboard that
 - Which electric vehicle model is the most popular based on total vehicles?
 - How many vehicles are eligible for CAFV (Clean Alternative Fuel Vehicle) incentives?
 
--Dashboard Interaction <a herf="https://github.com/biswalra/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-10%20232313.png"> View Dashboard </a>
+Dashboard Interaction <a herf="https://github.com/biswalra/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-10%20232313.png"> View Dashboard </a>
 
 ## Project Process
 - Data Collection
