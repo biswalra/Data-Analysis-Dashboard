@@ -16,7 +16,7 @@ To analyze electric vehicle data and build an interactive Tableau dashboard that
 - Which electric vehicle model is the most popular based on total vehicles?
 - How many vehicles are eligible for CAFV (Clean Alternative Fuel Vehicle) incentives?
 
- Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-10%20232313.png">View Dashboard</a>
+ Dashboard Interaction <a href="https://github.com/biswalra/Data-Analysis-Dashboard/commit/d627867f28306ff281c26d936815eec8f8fc2554">View Dashboard</a>
 
 ## Project Process
 - Data Collection
